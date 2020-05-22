@@ -1,1 +1,1 @@
-$ mysql -u usuario_mysql -p bd_blog < bd_blog.sql
+$ mysqldump -h ip_servidor -u usuario_bd -p bd_blog < archivo.sql
