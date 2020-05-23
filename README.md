@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
-https://raw.githubusercontent.com/soymonster/salud/master/assets/login.png
+https://raw.githubusercontent.com/soymonster/salud/master/login.png
 /*
 Navicat MySQL Data Transfer
 
